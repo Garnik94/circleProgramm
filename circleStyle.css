@@ -1,0 +1,19 @@
+
+.circle1Style {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.circle2Style {
+    float: right;
+    width: 100px;
+    height: 100px;
+    top: 150px;
+    background: red;
+    border-radius: 50%;
+    position: absolute;
+}
